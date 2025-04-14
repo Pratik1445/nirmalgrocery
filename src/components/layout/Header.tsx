@@ -32,7 +32,7 @@ const Header: React.FC = () => {
           className="flex items-center space-x-2"
           onClick={() => setIsMenuOpen(false)}
         >
-          <span className="text-primary text-2xl font-bold">NirmalGrocery</span>
+          <span className="text-primary text-2xl font-bold">NeelamGrocery</span>
         </Link>
 
         {/* Desktop Navigation */}
